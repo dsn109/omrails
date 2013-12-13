@@ -4,6 +4,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.0.2'
 
 gem 'heroku'
+ruby '2.0.0'
 
 # Use sqlite3 as the database for Active Record
 
